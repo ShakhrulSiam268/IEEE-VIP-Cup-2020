@@ -1,6 +1,10 @@
+# IEEE VIP Cup at ICIP 2020
+## Real-time vehicle detection and tracking at junction using a fisheye camera
 
+![img.png](images/img.png)
 
 ## Get The Data 
+
 
 To retrain the model:
 
